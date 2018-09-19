@@ -1,0 +1,69 @@
+---
+  apiVersion: apps/v1
+  kind: Deployment
+  metadata:
+    name: team-view-deployment
+    labels:
+      app: team-view
+  spec:
+    replicas: 1
+    selector:
+      matchLabels:
+        app: team-view
+    template:
+      metadata:
+        labels:
+          app: team-view
+      spec:
+        containers:
+        - name: extract
+          image: rappdw/team-view-extract:latest
+          volumeMounts:
+          - name: data-volume
+            mountPath: /root/.local
+          - name: team-view-access
+            mountPath: /root/.ssh
+            readOnly: true
+          - name: team-view-configuration
+            mountPath: /root/extract
+        - name: notebook
+          image: rappdw/team-view-notebook:latest
+          ports:
+          - containerPort: 8888
+          volumeMounts:
+          - name: data-volume
+            mountPath: /home/jovyan/project/data
+            subPath: share/cache/PyData
+          - name: team-view-configuration
+            mountPath: /root/extract
+        volumes:
+        - name: data-volume
+          hostPath:
+            path: /Users/drapp/.local
+            type: Directory
+        - name: team-view-access
+          secret:
+            secretName: team-view-access
+            defaultMode: 0700
+            items:
+            - key: ssh-privatekey
+              path: git_access
+            - key: known_hosts
+              path: known_hosts
+        - name: team-view-configuration
+          configMap:
+            name: team-view-configuration
+---
+  apiVersion: v1
+  kind: Service
+  metadata:
+    name: team-view
+    labels:
+      app: team-view
+  spec:
+    type: NodePort
+    ports:
+      - port: 8888
+        protocol: TCP
+    selector:
+      app: team-view

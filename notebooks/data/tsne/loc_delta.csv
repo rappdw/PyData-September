@@ -1,0 +1,205 @@
+Repo,CommitHash,TimeStamp,Author,Language,Files,Lines,Code,Comments,Blanks,Revision Comment
+tsne-mp,1c443030fa84761d9aae79a8e261d5ab3691dcb9,1534871165,Daniel Rapp,Markdown,0,5,5,0,0,Dwr/better error handling (#8)
+tsne-mp,1c443030fa84761d9aae79a8e261d5ab3691dcb9,1534871165,Daniel Rapp,Python,0,16,15,0,1,Dwr/better error handling (#8)
+tsne-mp,1c443030fa84761d9aae79a8e261d5ab3691dcb9,1534871165,Daniel Rapp,Total,0,21,20,0,1,Dwr/better error handling (#8)
+tsne-mp,22c0e2ce5742d3b2567bf80bd4bf064c57ec3bf3,1534526164,Michael Wright,C++,0,2,0,3,-1,Added the last steps to build the windows wheel (#7)
+tsne-mp,22c0e2ce5742d3b2567bf80bd4bf064c57ec3bf3,1534526164,Michael Wright,Dockerfile,1,64,13,29,22,Added the last steps to build the windows wheel (#7)
+tsne-mp,22c0e2ce5742d3b2567bf80bd4bf064c57ec3bf3,1534526164,Michael Wright,Markdown,0,46,46,0,0,Added the last steps to build the windows wheel (#7)
+tsne-mp,22c0e2ce5742d3b2567bf80bd4bf064c57ec3bf3,1534526164,Michael Wright,Python,0,6,4,2,0,Added the last steps to build the windows wheel (#7)
+tsne-mp,22c0e2ce5742d3b2567bf80bd4bf064c57ec3bf3,1534526164,Michael Wright,Plain Text,0,-1,-1,0,0,Added the last steps to build the windows wheel (#7)
+tsne-mp,22c0e2ce5742d3b2567bf80bd4bf064c57ec3bf3,1534526164,Michael Wright,Total,1,117,62,34,21,Added the last steps to build the windows wheel (#7)
+tsne-mp,ba07bc19374f3f18abed9f73daec554057866931,1534449834,Michael Wright,Plain Text,0,1,1,0,0,Added the wheel to the requirements
+tsne-mp,ba07bc19374f3f18abed9f73daec554057866931,1534449834,Michael Wright,Total,0,1,1,0,0,Added the wheel to the requirements
+tsne-mp,2d0ff804c2740c9467e9fb007fe56a92657c125b,1534384829,Daniel Rapp,Markdown,0,-11,-11,0,0,Fix typo
+tsne-mp,2d0ff804c2740c9467e9fb007fe56a92657c125b,1534384829,Daniel Rapp,Total,0,-11,-11,0,0,Fix typo
+tsne-mp,1e689d23419afebeac04ff868d0de63343b6eeab,1534383856,Daniel Rapp,Markdown,0,6,6,0,0,Update BUILD.md
+tsne-mp,1e689d23419afebeac04ff868d0de63343b6eeab,1534383856,Daniel Rapp,Python,0,-8,-7,0,-1,Update BUILD.md
+tsne-mp,1e689d23419afebeac04ff868d0de63343b6eeab,1534383856,Daniel Rapp,Total,0,-2,-1,0,-1,Update BUILD.md
+tsne-mp,188b77c41c714a62747df433efb0f882825c4e74,1534383776,Daniel Rapp,Shell,1,16,10,1,5,Update build script create publish script
+tsne-mp,188b77c41c714a62747df433efb0f882825c4e74,1534383776,Daniel Rapp,Total,1,16,10,1,5,Update build script create publish script
+tsne-mp,5f60e6784203a2b0509d38c24cc5a3d50cac42d2,1534383061,Daniel Rapp,Markdown,0,2,2,0,0,Add pypi badges
+tsne-mp,5f60e6784203a2b0509d38c24cc5a3d50cac42d2,1534383061,Daniel Rapp,Total,0,2,2,0,0,Add pypi badges
+tsne-mp,bb6fedb5f537d9a6828fbbab469cf98f7ea2b16e,1534382717,Daniel Rapp,Dockerfile,0,-37,-7,-18,-12,Create build for wheels (#6)
+tsne-mp,bb6fedb5f537d9a6828fbbab469cf98f7ea2b16e,1534382717,Daniel Rapp,Markdown,1,1,1,0,0,Create build for wheels (#6)
+tsne-mp,bb6fedb5f537d9a6828fbbab469cf98f7ea2b16e,1534382717,Daniel Rapp,Python,-1,-78,-50,-15,-13,Create build for wheels (#6)
+tsne-mp,bb6fedb5f537d9a6828fbbab469cf98f7ea2b16e,1534382717,Daniel Rapp,Shell,7,84,49,13,22,Create build for wheels (#6)
+tsne-mp,bb6fedb5f537d9a6828fbbab469cf98f7ea2b16e,1534382717,Daniel Rapp,Plain Text,0,-3,-3,0,0,Create build for wheels (#6)
+tsne-mp,bb6fedb5f537d9a6828fbbab469cf98f7ea2b16e,1534382717,Daniel Rapp,Total,6,-47,-24,-20,-3,Create build for wheels (#6)
+tsne-mp,662d9f231fc157bd176d5071276da44e471c551c,1491600924,Daniel Rapp,Markdown,0,-1,-1,0,0,* Include bhtsne.py script (and tsne binaries) as part of the wheel. * Change package name to bh-tsne to avoid collision with existing pypi packages
+tsne-mp,662d9f231fc157bd176d5071276da44e471c551c,1491600924,Daniel Rapp,Total,0,-1,-1,0,0,* Include bhtsne.py script (and tsne binaries) as part of the wheel. * Change package name to bh-tsne to avoid collision with existing pypi packages
+tsne-mp,19563f2c738572ddd53d7ad189450023f46e160e,1491272586,Daniel Rapp,Dockerfile,0,2,2,-1,1,* Include bhtsne.py script (and tsne binaries) as part of the wheel. * Change package name to bh-tsne to avoid collision with existing pypi packages
+tsne-mp,19563f2c738572ddd53d7ad189450023f46e160e,1491272586,Daniel Rapp,Python,0,11,7,2,2,* Include bhtsne.py script (and tsne binaries) as part of the wheel. * Change package name to bh-tsne to avoid collision with existing pypi packages
+tsne-mp,19563f2c738572ddd53d7ad189450023f46e160e,1491272586,Daniel Rapp,Total,0,13,9,1,3,* Include bhtsne.py script (and tsne binaries) as part of the wheel. * Change package name to bh-tsne to avoid collision with existing pypi packages
+tsne-mp,b1aa2777f59140e7c503897b27c7ac9e3c45369b,1491254661,Daniel Rapp,Dockerfile,0,3,3,0,0,"Quick fix, add cmake to docker images"
+tsne-mp,b1aa2777f59140e7c503897b27c7ac9e3c45369b,1491254661,Daniel Rapp,Total,0,3,3,0,0,"Quick fix, add cmake to docker images"
+tsne-mp,a38690c6b6056655e7db9838f0e6be90eb9b1c5d,1491250719,Daniel Rapp,CMake,0,4,2,0,2,Compile a platform specific binary executable as part of the bdist.
+tsne-mp,a38690c6b6056655e7db9838f0e6be90eb9b1c5d,1491250719,Daniel Rapp,Makefile,-1,-25,-14,-3,-8,Compile a platform specific binary executable as part of the bdist.
+tsne-mp,a38690c6b6056655e7db9838f0e6be90eb9b1c5d,1491250719,Daniel Rapp,Markdown,0,8,8,0,0,Compile a platform specific binary executable as part of the bdist.
+tsne-mp,a38690c6b6056655e7db9838f0e6be90eb9b1c5d,1491250719,Daniel Rapp,Python,1,81,57,8,16,Compile a platform specific binary executable as part of the bdist.
+tsne-mp,a38690c6b6056655e7db9838f0e6be90eb9b1c5d,1491250719,Daniel Rapp,Total,0,68,53,5,10,Compile a platform specific binary executable as part of the bdist.
+tsne-mp,ff040983e7d7397c673123f2129704ae8e617dde,1491184061,Daniel Rapp,Dockerfile,-1,39,11,18,10,Near final changes for docker/build
+tsne-mp,ff040983e7d7397c673123f2129704ae8e617dde,1491184061,Daniel Rapp,Markdown,1,30,30,0,0,Near final changes for docker/build
+tsne-mp,ff040983e7d7397c673123f2129704ae8e617dde,1491184061,Daniel Rapp,Python,1,48,29,11,8,Near final changes for docker/build
+tsne-mp,ff040983e7d7397c673123f2129704ae8e617dde,1491184061,Daniel Rapp,Total,1,117,70,29,18,Near final changes for docker/build
+tsne-mp,d7447950c0dd17a7bb9cf6c16b959718c51b0ad6,1491153439,Brian Jones,C Header,0,-1,-1,0,0,Made vptree::search thread-safe by turning tau into local variable instead of an instance variable. Parallelized nearest neighbor search with OpenMP parallel for.
+tsne-mp,d7447950c0dd17a7bb9cf6c16b959718c51b0ad6,1491153439,Brian Jones,C++,0,9,3,0,6,Made vptree::search thread-safe by turning tau into local variable instead of an instance variable. Parallelized nearest neighbor search with OpenMP parallel for.
+tsne-mp,d7447950c0dd17a7bb9cf6c16b959718c51b0ad6,1491153439,Brian Jones,Total,0,8,2,0,6,Made vptree::search thread-safe by turning tau into local variable instead of an instance variable. Parallelized nearest neighbor search with OpenMP parallel for.
+tsne-mp,625ae6a94c8b8e0cbc763dbdf28466ff788e8ae1,1491078041,Daniel Rapp,Dockerfile,2,-6,-5,0,-1,"Setup Dockerfiles for build, dev and prod usage"
+tsne-mp,625ae6a94c8b8e0cbc763dbdf28466ff788e8ae1,1491078041,Daniel Rapp,Python,0,-1,-1,0,0,"Setup Dockerfiles for build, dev and prod usage"
+tsne-mp,625ae6a94c8b8e0cbc763dbdf28466ff788e8ae1,1491078041,Daniel Rapp,Total,2,-7,-6,0,-1,"Setup Dockerfiles for build, dev and prod usage"
+tsne-mp,2edce91c463c91bdb8313153303a4bf6898c5bcd,1491057396,Daniel Rapp,Autoconf,0,-1,-1,0,0,Noticed some issues when other projects depend on the wheels generated... working on a resolution
+tsne-mp,2edce91c463c91bdb8313153303a4bf6898c5bcd,1491057396,Daniel Rapp,Markdown,0,4,4,0,0,Noticed some issues when other projects depend on the wheels generated... working on a resolution
+tsne-mp,2edce91c463c91bdb8313153303a4bf6898c5bcd,1491057396,Daniel Rapp,Python,0,4,4,0,0,Noticed some issues when other projects depend on the wheels generated... working on a resolution
+tsne-mp,2edce91c463c91bdb8313153303a4bf6898c5bcd,1491057396,Daniel Rapp,Plain Text,0,2,2,0,0,Noticed some issues when other projects depend on the wheels generated... working on a resolution
+tsne-mp,2edce91c463c91bdb8313153303a4bf6898c5bcd,1491057396,Daniel Rapp,Total,0,9,9,0,0,Noticed some issues when other projects depend on the wheels generated... working on a resolution
+tsne-mp,4affd0a16d9330b328f2723b3ed5fe0e1be0da15,1490892106,Daniel Rapp,C Header,0,-3,-1,-1,-1,Parallelization via OpenMP
+tsne-mp,4affd0a16d9330b328f2723b3ed5fe0e1be0da15,1490892106,Daniel Rapp,CMake,0,-4,-4,0,0,Parallelization via OpenMP
+tsne-mp,4affd0a16d9330b328f2723b3ed5fe0e1be0da15,1490892106,Daniel Rapp,C++,0,12,9,0,3,Parallelization via OpenMP
+tsne-mp,4affd0a16d9330b328f2723b3ed5fe0e1be0da15,1490892106,Daniel Rapp,Markdown,0,8,8,0,0,Parallelization via OpenMP
+tsne-mp,4affd0a16d9330b328f2723b3ed5fe0e1be0da15,1490892106,Daniel Rapp,Python,0,1,3,-1,-1,Parallelization via OpenMP
+tsne-mp,4affd0a16d9330b328f2723b3ed5fe0e1be0da15,1490892106,Daniel Rapp,Total,0,14,15,-2,1,Parallelization via OpenMP
+tsne-mp,0c47fa9e39d4d85ce13996947af0a1fba4e0edb5,1490885286,Daniel Rapp,Markdown,0,37,37,0,0,Pull over updated bhtsne.py (and section of README.md) from lvdmaaten repo.
+tsne-mp,0c47fa9e39d4d85ce13996947af0a1fba4e0edb5,1490885286,Daniel Rapp,Python,0,2,-3,0,5,Pull over updated bhtsne.py (and section of README.md) from lvdmaaten repo.
+tsne-mp,0c47fa9e39d4d85ce13996947af0a1fba4e0edb5,1490885286,Daniel Rapp,Total,0,39,34,0,5,Pull over updated bhtsne.py (and section of README.md) from lvdmaaten repo.
+tsne-mp,05781018209ba297b245499544e48415040f1ad6,1490826992,Daniel Rapp,CMake,1,16,11,0,5,add CMake file
+tsne-mp,05781018209ba297b245499544e48415040f1ad6,1490826992,Daniel Rapp,Total,1,16,11,0,5,add CMake file
+tsne-mp,deb3532be53792e29110c2f2980720e6f7d2d0bc,1490822321,Daniel Rapp,Dockerfile,1,22,14,1,7,Initial changes as we begin looking at this.
+tsne-mp,deb3532be53792e29110c2f2980720e6f7d2d0bc,1490822321,Daniel Rapp,Python,1,196,226,-38,8,Initial changes as we begin looking at this.
+tsne-mp,deb3532be53792e29110c2f2980720e6f7d2d0bc,1490822321,Daniel Rapp,Plain Text,0,1,1,0,0,Initial changes as we begin looking at this.
+tsne-mp,deb3532be53792e29110c2f2980720e6f7d2d0bc,1490822321,Daniel Rapp,Total,2,219,241,-37,15,Initial changes as we begin looking at this.
+tsne-mp,8be32ac7df169ee38b87a2c389818e9d131bfd94,1490819950,Daniel Rapp,Python,0,-1,-1,0,0,"Changes to ""SystemError: Parent module '' not loaded, cannot perform relative import"" error with Python 3"
+tsne-mp,8be32ac7df169ee38b87a2c389818e9d131bfd94,1490819950,Daniel Rapp,Total,0,-1,-1,0,0,"Changes to ""SystemError: Parent module '' not loaded, cannot perform relative import"" error with Python 3"
+tsne-mp,1858079dac9682ac38951db3143b825a4ed9d098,1476730866,Matt Sooknah,C++,0,1,4,-1,-2,support 2D or 3D tsne
+tsne-mp,1858079dac9682ac38951db3143b825a4ed9d098,1476730866,Matt Sooknah,Makefile,0,6,4,0,2,support 2D or 3D tsne
+tsne-mp,1858079dac9682ac38951db3143b825a4ed9d098,1476730866,Matt Sooknah,Python,0,16,12,0,4,support 2D or 3D tsne
+tsne-mp,1858079dac9682ac38951db3143b825a4ed9d098,1476730866,Matt Sooknah,Total,0,23,20,-1,4,support 2D or 3D tsne
+tsne-mp,60e87e4704d0001925c00ef39a9de8505392968a,1476726167,Matt Sooknah,C Header,0,0,1,0,-1,expose iteration params
+tsne-mp,60e87e4704d0001925c00ef39a9de8505392968a,1476726167,Matt Sooknah,C++,0,22,18,0,4,expose iteration params
+tsne-mp,60e87e4704d0001925c00ef39a9de8505392968a,1476726167,Matt Sooknah,Python,0,17,11,0,6,expose iteration params
+tsne-mp,60e87e4704d0001925c00ef39a9de8505392968a,1476726167,Matt Sooknah,Total,0,39,30,0,9,expose iteration params
+tsne-mp,f44591954611d454c3c90591f9dfadd92841d682,1476400650,Paul Ryvkin,C Header,0,1,1,0,0,Add argument to initialize points
+tsne-mp,f44591954611d454c3c90591f9dfadd92841d682,1476400650,Paul Ryvkin,C++,0,7,7,0,0,Add argument to initialize points
+tsne-mp,f44591954611d454c3c90591f9dfadd92841d682,1476400650,Paul Ryvkin,Python,0,8,6,0,2,Add argument to initialize points
+tsne-mp,f44591954611d454c3c90591f9dfadd92841d682,1476400650,Paul Ryvkin,Total,0,16,14,0,2,Add argument to initialize points
+tsne-mp,92fa3fb87cfc4c4d29df6084338c77dbd7fec97a,1474324419,Matt Sooknah,C Header,0,8,9,0,-1,squashed tsne optimization
+tsne-mp,92fa3fb87cfc4c4d29df6084338c77dbd7fec97a,1474324419,Matt Sooknah,C++,0,22,13,3,6,squashed tsne optimization
+tsne-mp,92fa3fb87cfc4c4d29df6084338c77dbd7fec97a,1474324419,Matt Sooknah,Makefile,1,20,11,3,6,squashed tsne optimization
+tsne-mp,92fa3fb87cfc4c4d29df6084338c77dbd7fec97a,1474324419,Matt Sooknah,Objective C,0,4,4,0,0,squashed tsne optimization
+tsne-mp,92fa3fb87cfc4c4d29df6084338c77dbd7fec97a,1474324419,Matt Sooknah,Python,1,77,63,4,10,squashed tsne optimization
+tsne-mp,92fa3fb87cfc4c4d29df6084338c77dbd7fec97a,1474324419,Matt Sooknah,Shell,1,4,2,1,1,squashed tsne optimization
+tsne-mp,92fa3fb87cfc4c4d29df6084338c77dbd7fec97a,1474324419,Matt Sooknah,Total,3,135,102,11,22,squashed tsne optimization
+tsne-mp,3dafdb7d177e69cf2ec706eb20958a1768b347aa,1461021347,Paul Ryvkin,Makefile,0,3,2,0,1,Static link cblas; add sdist target
+tsne-mp,3dafdb7d177e69cf2ec706eb20958a1768b347aa,1461021347,Paul Ryvkin,Total,0,3,2,0,1,Static link cblas; add sdist target
+tsne-mp,af82c3cebc0980ecec1772f4ea5454c32e5dcb71,1460947050,Paul Ryvkin,C Header,0,79,7,70,2,Complete replacement of core w/ latest from lvdmaaten
+tsne-mp,af82c3cebc0980ecec1772f4ea5454c32e5dcb71,1460947050,Paul Ryvkin,C++,0,-46,-34,-4,-8,Complete replacement of core w/ latest from lvdmaaten
+tsne-mp,af82c3cebc0980ecec1772f4ea5454c32e5dcb71,1460947050,Paul Ryvkin,Markdown,1,49,49,0,0,Complete replacement of core w/ latest from lvdmaaten
+tsne-mp,af82c3cebc0980ecec1772f4ea5454c32e5dcb71,1460947050,Paul Ryvkin,Objective C,0,28,26,0,2,Complete replacement of core w/ latest from lvdmaaten
+tsne-mp,af82c3cebc0980ecec1772f4ea5454c32e5dcb71,1460947050,Paul Ryvkin,Python,3,224,144,44,36,Complete replacement of core w/ latest from lvdmaaten
+tsne-mp,af82c3cebc0980ecec1772f4ea5454c32e5dcb71,1460947050,Paul Ryvkin,Plain Text,0,1,1,0,0,Complete replacement of core w/ latest from lvdmaaten
+tsne-mp,af82c3cebc0980ecec1772f4ea5454c32e5dcb71,1460947050,Paul Ryvkin,Total,4,335,193,110,32,Complete replacement of core w/ latest from lvdmaaten
+tsne-mp,4b4f530ad71750c26a1de1326ad42bbd653012b7,1447349697,Daniel Rodriguez,Markdown,0,2,2,0,0,sklearn note
+tsne-mp,4b4f530ad71750c26a1de1326ad42bbd653012b7,1447349697,Daniel Rodriguez,Total,0,2,2,0,0,sklearn note
+tsne-mp,b9c6bd8c89bc5d46e64c462386c9c2c652bc36d6,1447299869,Daniel Rodriguez,Plain Text,-1,-27,-27,0,0,License
+tsne-mp,b9c6bd8c89bc5d46e64c462386c9c2c652bc36d6,1447299869,Daniel Rodriguez,Total,-1,-27,-27,0,0,License
+tsne-mp,aba1684ddb839178882f4c3948b1b10b07abc5b7,1446076186,Daniel Rodriguez,Python,-1,-47,-32,-4,-11,Remote init.py from tests
+tsne-mp,aba1684ddb839178882f4c3948b1b10b07abc5b7,1446076186,Daniel Rodriguez,Total,-1,-47,-32,-4,-11,Remote init.py from tests
+tsne-mp,1408290e590c2217981295117faaa62e571ba139,1446074085,Daniel Rodriguez,Markdown,0,3,3,0,0,Add link to travis CI
+tsne-mp,1408290e590c2217981295117faaa62e571ba139,1446074085,Daniel Rodriguez,Total,0,3,3,0,0,Add link to travis CI
+tsne-mp,6199dfc1f44d5b9b28bc7c8c1c0487e950a7a1a6,1446073386,Daniel Rodriguez,Python,0,-2,0,-1,-1,Remove encoding header
+tsne-mp,6199dfc1f44d5b9b28bc7c8c1c0487e950a7a1a6,1446073386,Daniel Rodriguez,Total,0,-2,0,-1,-1,Remove encoding header
+tsne-mp,42f36b7dcabf901c256c78ed72b771188cdab06c,1446073012,Daniel Rodriguez,Python,0,-1,-1,0,0,Update setup.py docs and call
+tsne-mp,42f36b7dcabf901c256c78ed72b771188cdab06c,1446073012,Daniel Rodriguez,Total,0,-1,-1,0,0,Update setup.py docs and call
+tsne-mp,7f891a40550e9bff9850491db07518647e1a401c,1446070918,Daniel Rodriguez,Python,0,-2,-1,0,-1,Remove print test
+tsne-mp,7f891a40550e9bff9850491db07518647e1a401c,1446070918,Daniel Rodriguez,Total,0,-2,-1,0,-1,Remove print test
+tsne-mp,85a07abad0770eb7605469eda88bff24166bf1f4,1446070702,Daniel Rodriguez,Autoconf,0,1,1,0,0,Fix included files
+tsne-mp,85a07abad0770eb7605469eda88bff24166bf1f4,1446070702,Daniel Rodriguez,Python,1,58,40,4,14,Fix included files
+tsne-mp,85a07abad0770eb7605469eda88bff24166bf1f4,1446070702,Daniel Rodriguez,Total,1,59,41,4,14,Fix included files
+tsne-mp,5eace54b59ce9892deb12505838771ff5b5beb50,1446063284,Daniel Rodriguez,Python,0,-1,-2,0,1,Fix cythonize for Linux
+tsne-mp,5eace54b59ce9892deb12505838771ff5b5beb50,1446063284,Daniel Rodriguez,Total,0,-1,-2,0,1,Fix cythonize for Linux
+tsne-mp,9eb05e85d13bb0f7cf15687ad7ff4f630507eb94,1444919969,Desmond Elliott,Python,0,1,2,0,-1,Update setup.py
+tsne-mp,9eb05e85d13bb0f7cf15687ad7ff4f630507eb94,1444919969,Desmond Elliott,Total,0,1,2,0,-1,Update setup.py
+tsne-mp,669bd187d4802863cf7f8cc56cae1963c6fb3969,1444681159,Daniel Rodriguez,Autoconf,0,2,2,0,0,Fix MANIFEST to include reqs.txt and versioneer.py
+tsne-mp,669bd187d4802863cf7f8cc56cae1963c6fb3969,1444681159,Daniel Rodriguez,Total,0,2,2,0,0,Fix MANIFEST to include reqs.txt and versioneer.py
+tsne-mp,b6188b49b202fe9c168d0434f12f34f3832f0150,1444666069,Daniel Rodriguez,Python,0,3,3,0,0,Fix installation in OS X 10.11 El Capitan
+tsne-mp,b6188b49b202fe9c168d0434f12f34f3832f0150,1444666069,Daniel Rodriguez,YAML,0,1,1,0,0,Fix installation in OS X 10.11 El Capitan
+tsne-mp,b6188b49b202fe9c168d0434f12f34f3832f0150,1444666069,Daniel Rodriguez,Total,0,4,4,0,0,Fix installation in OS X 10.11 El Capitan
+tsne-mp,1aa5f39849a37842b50da320cbefe313397dc15a,1443296467,Daniel Rodriguez,Markdown,0,9,9,0,0,Update Readme
+tsne-mp,1aa5f39849a37842b50da320cbefe313397dc15a,1443296467,Daniel Rodriguez,Total,0,9,9,0,0,Update Readme
+tsne-mp,4fde76e19df9cb7ac0d7c3b763dc43b9af85a022,1443296206,Daniel Rodriguez,Python,1,11,7,0,4,"Add test for iris, same as example notebook"
+tsne-mp,4fde76e19df9cb7ac0d7c3b763dc43b9af85a022,1443296206,Daniel Rodriguez,Total,1,11,7,0,4,"Add test for iris, same as example notebook"
+tsne-mp,35951d9fbf0a1a5197decc64fdd57a9818b63ed4,1443296188,Daniel Rodriguez,Dockerfile,1,8,5,0,3,Add Dockerfile for testing
+tsne-mp,35951d9fbf0a1a5197decc64fdd57a9818b63ed4,1443296188,Daniel Rodriguez,Total,1,8,5,0,3,Add Dockerfile for testing
+tsne-mp,b74bd3dd24b2ac0a7902f8091fcbcb092f09a99f,1443294910,Daniel Rodriguez,Python,0,5,0,3,2,Refactor setup.py and add versioneer
+tsne-mp,b74bd3dd24b2ac0a7902f8091fcbcb092f09a99f,1443294910,Daniel Rodriguez,Total,0,5,0,3,2,Refactor setup.py and add versioneer
+tsne-mp,f45af5bfbddd7e5e30d015a4658d96c4fa2ac74f,1443294127,Daniel Rodriguez,Autoconf,0,1,1,0,0,Add versionner
+tsne-mp,f45af5bfbddd7e5e30d015a4658d96c4fa2ac74f,1443294127,Daniel Rodriguez,Python,2,2163,1580,215,368,Add versionner
+tsne-mp,f45af5bfbddd7e5e30d015a4658d96c4fa2ac74f,1443294127,Daniel Rodriguez,Total,2,2164,1581,215,368,Add versionner
+tsne-mp,f20506db1794f8846310ba032a5f8735b4487cb2,1443293948,Daniel Rodriguez,YAML,1,13,13,0,0,Add environment.yml
+tsne-mp,f20506db1794f8846310ba032a5f8735b4487cb2,1443293948,Daniel Rodriguez,Total,1,13,13,0,0,Add environment.yml
+tsne-mp,af9c1470d62fe8e1df9ac269d65c4c23dd985342,1443293165,Daniel Rodriguez,Plain Text,-1,-53,-53,0,0,remove duplicated readme
+tsne-mp,af9c1470d62fe8e1df9ac269d65c4c23dd985342,1443293165,Daniel Rodriguez,Total,-1,-53,-53,0,0,remove duplicated readme
+tsne-mp,0c40dbd6535cb6de80ceae3f9e00850e528d8619,1423704808,Daniel Rodriguez,Python,0,9,7,0,2,fix yosemite BLAS location
+tsne-mp,0c40dbd6535cb6de80ceae3f9e00850e528d8619,1423704808,Daniel Rodriguez,Total,0,9,7,0,2,fix yosemite BLAS location
+tsne-mp,df541f9a458bcaf5afddd752243e6f23108600e1,1406837206,Daniel Rodriguez,Markdown,0,1,1,0,0,New example
+tsne-mp,df541f9a458bcaf5afddd752243e6f23108600e1,1406837206,Daniel Rodriguez,Total,0,1,1,0,0,New example
+tsne-mp,22e2115800f3bea63c6e61f7a1aa4346b2950719,1391702270,mschubert,Markdown,0,12,12,0,0,"relax requirements, make sure that numpy input array is contiguous"
+tsne-mp,22e2115800f3bea63c6e61f7a1aa4346b2950719,1391702270,mschubert,Python,0,1,0,0,1,"relax requirements, make sure that numpy input array is contiguous"
+tsne-mp,22e2115800f3bea63c6e61f7a1aa4346b2950719,1391702270,mschubert,Total,0,13,12,0,1,"relax requirements, make sure that numpy input array is contiguous"
+tsne-mp,20b3f1b7eab67ebf08294a2f16e9753d7a547069,1377477813,Daniel Rodriguez,Markdown,0,3,3,0,0,MNIST example
+tsne-mp,20b3f1b7eab67ebf08294a2f16e9753d7a547069,1377477813,Daniel Rodriguez,Notebook,1,1044,1044,0,0,MNIST example
+tsne-mp,20b3f1b7eab67ebf08294a2f16e9753d7a547069,1377477813,Daniel Rodriguez,Total,1,1047,1047,0,0,MNIST example
+tsne-mp,ca7ac82520bc90fb75cfef665d23fe0fc2f04f7f,1377391410,Daniel Rodriguez,Autoconf,1,3,3,0,0,version 0.0.1
+tsne-mp,ca7ac82520bc90fb75cfef665d23fe0fc2f04f7f,1377391410,Daniel Rodriguez,Python,1,46,41,1,4,version 0.0.1
+tsne-mp,ca7ac82520bc90fb75cfef665d23fe0fc2f04f7f,1377391410,Daniel Rodriguez,Plain Text,1,53,53,0,0,version 0.0.1
+tsne-mp,ca7ac82520bc90fb75cfef665d23fe0fc2f04f7f,1377391410,Daniel Rodriguez,Total,3,102,97,1,4,version 0.0.1
+tsne-mp,c022a44962c9d4dc0abf1d8e564cf443c1752b77,1377383331,Daniel Rodriguez,Makefile,0,1,1,0,0,moved files
+tsne-mp,c022a44962c9d4dc0abf1d8e564cf443c1752b77,1377383331,Daniel Rodriguez,Python,-2,-68,-54,-3,-11,moved files
+tsne-mp,c022a44962c9d4dc0abf1d8e564cf443c1752b77,1377383331,Daniel Rodriguez,Total,-2,-67,-53,-3,-11,moved files
+tsne-mp,53fe72c81f24169e360ed2382c5c5b9f1d55f3f3,1377383306,Daniel Rodriguez,Plain Text,1,27,27,0,0,Copied licence
+tsne-mp,53fe72c81f24169e360ed2382c5c5b9f1d55f3f3,1377383306,Daniel Rodriguez,Total,1,27,27,0,0,Copied licence
+tsne-mp,139505d5e632b457601733255d048d9bc3c85b7b,1377383294,Daniel Rodriguez,Plain Text,1,3,3,0,0,added requirements list
+tsne-mp,139505d5e632b457601733255d048d9bc3c85b7b,1377383294,Daniel Rodriguez,Total,1,3,3,0,0,added requirements list
+tsne-mp,6410b6f7ef435ffce59138eb4f6949637460da2d,1377383281,Daniel Rodriguez,Notebook,1,116,116,0,0,added iris example
+tsne-mp,6410b6f7ef435ffce59138eb4f6949637460da2d,1377383281,Daniel Rodriguez,Total,1,116,116,0,0,added iris example
+tsne-mp,8b9ffba1f38f4a50f4880648c51d7e3c749cf357,1377383268,Daniel Rodriguez,Markdown,0,14,14,0,0,New read me
+tsne-mp,8b9ffba1f38f4a50f4880648c51d7e3c749cf357,1377383268,Daniel Rodriguez,Total,0,14,14,0,0,New read me
+tsne-mp,e25dda9255c1f84ee18a2c3b0d6bf87f8fa56fd0,1377383258,Daniel Rodriguez,C++,-1,-6300,-4685,-1269,-346,update
+tsne-mp,e25dda9255c1f84ee18a2c3b0d6bf87f8fa56fd0,1377383258,Daniel Rodriguez,Total,-1,-6300,-4685,-1269,-346,update
+tsne-mp,668ed9200992db71f143f0b1af08db04267c0518,1377378356,Daniel Rodriguez,C++,1,6300,4685,1269,346,Fix OS X compile and restructure
+tsne-mp,668ed9200992db71f143f0b1af08db04267c0518,1377378356,Daniel Rodriguez,Python,0,-3,-1,1,-3,Fix OS X compile and restructure
+tsne-mp,668ed9200992db71f143f0b1af08db04267c0518,1377378356,Daniel Rodriguez,Total,1,6297,4684,1270,343,Fix OS X compile and restructure
+tsne-mp,8d1c3fa52829db39c14b135bb2581855d4ad0ea7,1364043616,osdf,C Header,-3,-370,-245,-55,-70,Cleaning up.
+tsne-mp,8d1c3fa52829db39c14b135bb2581855d4ad0ea7,1364043616,osdf,C++,-2,-1234,-833,-205,-196,Cleaning up.
+tsne-mp,8d1c3fa52829db39c14b135bb2581855d4ad0ea7,1364043616,osdf,Makefile,0,3,2,0,1,Cleaning up.
+tsne-mp,8d1c3fa52829db39c14b135bb2581855d4ad0ea7,1364043616,osdf,Objective C,-1,-83,-75,0,-8,Cleaning up.
+tsne-mp,8d1c3fa52829db39c14b135bb2581855d4ad0ea7,1364043616,osdf,Python,0,-1,-1,0,0,Cleaning up.
+tsne-mp,8d1c3fa52829db39c14b135bb2581855d4ad0ea7,1364043616,osdf,Plain Text,-1,-26,-26,0,0,Cleaning up.
+tsne-mp,8d1c3fa52829db39c14b135bb2581855d4ad0ea7,1364043616,osdf,Total,-7,-1711,-1178,-260,-273,Cleaning up.
+tsne-mp,67fc1c825a779083ec031126777dbb09e051e927,1364042878,osdf,C Header,3,370,245,55,70,a bit more structure.
+tsne-mp,67fc1c825a779083ec031126777dbb09e051e927,1364042878,osdf,C++,2,1234,833,205,196,a bit more structure.
+tsne-mp,67fc1c825a779083ec031126777dbb09e051e927,1364042878,osdf,Objective C,1,83,75,0,8,a bit more structure.
+tsne-mp,67fc1c825a779083ec031126777dbb09e051e927,1364042878,osdf,Plain Text,1,26,26,0,0,a bit more structure.
+tsne-mp,67fc1c825a779083ec031126777dbb09e051e927,1364042878,osdf,Total,7,1713,1179,260,274,a bit more structure.
+tsne-mp,6dd04ed490c49c85bf91db2cb0bf2bed82b5967b,1364042826,osdf,Python,0,5,3,1,1,FIX (from Justin Bayer): avoid memory segfault when pca_d is choosen too big.
+tsne-mp,6dd04ed490c49c85bf91db2cb0bf2bed82b5967b,1364042826,osdf,Total,0,5,3,1,1,FIX (from Justin Bayer): avoid memory segfault when pca_d is choosen too big.
+tsne-mp,d5d7ec0b9cfa99370c98f00abc8653feae5c59af,1363960746,Justin Bayer,Makefile,0,1,1,0,0,"some tidying up, made auto installation work"
+tsne-mp,d5d7ec0b9cfa99370c98f00abc8653feae5c59af,1363960746,Justin Bayer,Python,0,1,1,0,0,"some tidying up, made auto installation work"
+tsne-mp,d5d7ec0b9cfa99370c98f00abc8653feae5c59af,1363960746,Justin Bayer,Total,0,2,2,0,0,"some tidying up, made auto installation work"
+tsne-mp,cffaccab52b2074683aae4fdb337e9daa0466659,1363958276,osdf,C++,-1,-5988,-4366,-1264,-358,py_bh_tsne.cpp is built by cython.
+tsne-mp,cffaccab52b2074683aae4fdb337e9daa0466659,1363958276,osdf,Total,-1,-5988,-4366,-1264,-358,py_bh_tsne.cpp is built by cython.
+tsne-mp,1881a5171ad42450b6af201d05d94f9245d22948,1363957773,osdf,Plain Text,0,-113,-113,0,0,Did something wrong with original Readme.txt.
+tsne-mp,1881a5171ad42450b6af201d05d94f9245d22948,1363957773,osdf,Total,0,-113,-113,0,0,Did something wrong with original Readme.txt.
+tsne-mp,d50a9b06ad1022dc3055c46a1c396537436e02d9,1363606904,osdf,Markdown,1,30,30,0,0,this is the quick test. and some readme.
+tsne-mp,d50a9b06ad1022dc3055c46a1c396537436e02d9,1363606904,osdf,Python,1,37,27,2,8,this is the quick test. and some readme.
+tsne-mp,d50a9b06ad1022dc3055c46a1c396537436e02d9,1363606904,osdf,Total,2,67,57,2,8,this is the quick test. and some readme.
+tsne-mp,9da1c06d43051334113ddacdc64f00779cdf5310,1363606867,osdf,C++,1,5988,4366,1264,358,cython wrapper and a quick test.
+tsne-mp,9da1c06d43051334113ddacdc64f00779cdf5310,1363606867,osdf,Makefile,1,5,4,0,1,cython wrapper and a quick test.
+tsne-mp,9da1c06d43051334113ddacdc64f00779cdf5310,1363606867,osdf,Python,2,72,54,3,15,cython wrapper and a quick test.
+tsne-mp,9da1c06d43051334113ddacdc64f00779cdf5310,1363606867,osdf,Total,4,6065,4424,1267,374,cython wrapper and a quick test.
+tsne-mp,60a4a5122e178b37504d6f8e72222463b44524b8,1363606103,osdf,C++,0,0,-22,28,-6,Modifications to c++ source for cython usage.
+tsne-mp,60a4a5122e178b37504d6f8e72222463b44524b8,1363606103,osdf,Total,0,0,-22,28,-6,Modifications to c++ source for cython usage.
+tsne-mp,802172f80c3971144109720e35ab965410b3fbe2,1363605715,osdf,C Header,3,370,245,55,70,Initial commit. Original files from L.v.d. Maaten's implementation.
+tsne-mp,802172f80c3971144109720e35ab965410b3fbe2,1363605715,osdf,C++,2,1234,855,177,202,Initial commit. Original files from L.v.d. Maaten's implementation.
+tsne-mp,802172f80c3971144109720e35ab965410b3fbe2,1363605715,osdf,Objective C,1,83,75,0,8,Initial commit. Original files from L.v.d. Maaten's implementation.
+tsne-mp,802172f80c3971144109720e35ab965410b3fbe2,1363605715,osdf,Plain Text,1,139,139,0,0,Initial commit. Original files from L.v.d. Maaten's implementation.
+tsne-mp,802172f80c3971144109720e35ab965410b3fbe2,1363605715,osdf,Total,7,1826,1314,232,280,Initial commit. Original files from L.v.d. Maaten's implementation.

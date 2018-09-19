@@ -1,0 +1,7 @@
+config/extract-local.json
+tv-config
+samples
+activate
+.ipynb_checkpoints
+.diffs
+gitstats

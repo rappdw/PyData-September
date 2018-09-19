@@ -1,0 +1,13 @@
+{
+  "extracts": [
+    {
+      "name": "tsne",
+      "repos": [
+        {"name": "tsne-mp", "remote": "git@github.com:resero-labs/tsne.git"}
+      ],
+      "start_date": "2001-01-01"
+    }
+  ],
+  "output_path": "/Users/drapp/dev/PyData-September/notebooks/data",
+  "mailmap_file": "/Users/drapp/dev/PyData-September/config/mailmap.tsne"
+}
